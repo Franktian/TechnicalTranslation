@@ -31,9 +31,9 @@
 大学教授应对课程项目进行设计以帮助学生提升作品集，作为学生，在课程结束之后，应去话一些时间来更新作品集。
 
 相关链接
-(Edward Yang's web site)[http://ezyang.com/]
-(Michael Bradshaw's web site)[http://www.mjbshaw.com/]
-(Github is my resume)http://pydanny.blogspot.ca/2011/08/github-is-my-resume.html]
+[Edward Yang's web site](http://ezyang.com/)
+[Michael Bradshaw's web site](http://www.mjbshaw.com/)
+[Github is my resume](http://pydanny.blogspot.ca/2011/08/github-is-my-resume.html)
 
 ### 技术交流
 
