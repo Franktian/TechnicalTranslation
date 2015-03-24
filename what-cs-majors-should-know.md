@@ -28,4 +28,17 @@
 
 而绩点和简历是做不到这一点的。
 
-大学教授应对课程项目进行设计
+大学教授应对课程项目进行设计以帮助学生提升作品集，作为学生，在课程结束之后，应去话一些时间来更新作品集。
+
+相关链接
+(Edward Yang's web site)[http://ezyang.com/]
+(Michael Bradshaw's web site)[http://www.mjbshaw.com/]
+(Github is my resume)http://pydanny.blogspot.ca/2011/08/github-is-my-resume.html]
+
+### 技术交流
+
+现代计算机科学家必须要联系清晰而有说服力的向非编程人员表达他们的观点。
+
+在规模相对较小的公司，开发人员同管理人员的交流可以决定一个公司的成败。
+
+不幸的是，大学并没有提供足够的相关课程来提高编程者的交流能力。
