@@ -50,5 +50,9 @@
 
 * [Writing for Computer Science](http://www.amazon.com/gp/product/B000SW1HKC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000SW1HKC&linkCode=as2&tag=ucmbread-20) by Zobel.
 * [Even a Geek can Speak](http://www.amazon.com/gp/product/0978577604/ref=as_li_ss_tl?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0978577604) by Asher.
-* 
+* [The LaTeX Companion](http://www.amazon.com/gp/product/0201362996/ref=as_li_ss_tl?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0201362996)
+* [The TeXbook](http://www.amazon.com/gp/product/0201134489/ref=as_li_ss_tl?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0201134489)(新手止步)
+* [Mathematical Writing](http://www-cs-faculty.stanford.edu/~uno/klr.html)
+* [How to Give a Good Research Talk](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk-html.html)
+* 我对电子邮件的[建议](http://matt.might.net/articles/how-to-email/)
 
