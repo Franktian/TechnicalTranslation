@@ -56,3 +56,20 @@
 * [How to Give a Good Research Talk](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk-html.html)
 * 我对电子邮件的[建议](http://matt.might.net/articles/how-to-email/)
 
+### 工程核心
+
+计算机科学不能完全算作工程，但是它足够接近工程。
+
+计算机科学家经常需要和工程师一起工作。
+
+计算机科学家和工程师都在使用一种根植于实分析，线性代数，概率论和物理学上的语言。
+
+计算机科学家需要学习电磁学，因此同样需要学习多元微积分和微分方程。
+
+#### 推荐阅读
+
+* [Calculus](http://www.amazon.com/gp/product/0914098918/ref=as_li_ss_tl?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0914098918)
+* [All of Statistics: A Concise Course in Statistical Inference](http://www.amazon.com/gp/product/1441923225/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1441923225&linkCode=as2&tag=ucmbread-20)
+
+
+### Unix哲学
