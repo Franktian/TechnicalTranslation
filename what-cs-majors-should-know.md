@@ -5,7 +5,7 @@
 
 我所在的计算机系日前也就这一话题进行过讨论，因此我将我对这一话题的想法总结为对一个问题的回答：
 
-每个计算机专业的学生都需要知道什么？
+每个计算机专业的学生都都需要知道什么？
 
 我将尝试对以下四个问题的讨论来对这一问题进行总结：
 
@@ -30,18 +30,25 @@
 
 大学教授应对课程项目进行设计以帮助学生提升作品集，作为学生，在课程结束之后，应去话一些时间来更新作品集。
 
-相关链接
+#### 推荐阅读
 
-[Edward Yang's web site](http://ezyang.com/)
-
-[Michael Bradshaw's web site](http://www.mjbshaw.com/)
-
-[Github is my resume](http://pydanny.blogspot.ca/2011/08/github-is-my-resume.html)
+* [Edward Yang's web site](http://ezyang.com/)
+* [Michael Bradshaw's web site](http://www.mjbshaw.com/)
+* [Github is my resume](http://pydanny.blogspot.ca/2011/08/github-is-my-resume.html)
 
 ### 技术交流
 
-现代计算机科学家必须要联系清晰而有说服力的向非编程人员表达他们的观点。
+当代计算机科学家必须要联系清晰而有说服力的向非编程人员表达他们的观点。
 
 在规模相对较小的公司，开发人员同管理人员的交流可以决定一个公司的成败。
 
-不幸的是，大学并没有提供足够的相关课程来提高编程者的交流能力。
+不幸的是，依靠增加一门大学课程并不能解决问题，需要更多的课程来给学生提供足够的机会去展示他们的想法。
+
+我推荐学生学好PowerPoint或者Keynote。 关于生成优美的数学文档，毫无疑问LaTeX是不二的选择。技术课程中所有的文档类作业都应该用LaTeX来完成。
+
+#### 推荐阅读
+
+* [Writing for Computer Science](http://www.amazon.com/gp/product/B000SW1HKC/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000SW1HKC&linkCode=as2&tag=ucmbread-20) by Zobel.
+* [Even a Geek can Speak](http://www.amazon.com/gp/product/0978577604/ref=as_li_ss_tl?ie=UTF8&tag=ucmbread-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0978577604) by Asher.
+* 
+
